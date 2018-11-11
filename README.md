@@ -1,1 +1,1 @@
-Solutions to exercises on [ChainShot](https://chainshot.com)
+# Solutions to [ChainShot](https://chainshot.com) exercises [![Code](https://img.shields.io/badge/Code-Solidity-brightgreen.svg)](https://img.shields.io/badge/Code-Solidity-brightgreen.svg)
